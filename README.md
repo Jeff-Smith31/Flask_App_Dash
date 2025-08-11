@@ -1,2 +1,2 @@
-# Flast_App_Dash
+# Flask_App_Dash
 Flask app hosting a Dash Dashboard
